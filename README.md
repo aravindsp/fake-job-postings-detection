@@ -24,19 +24,12 @@ BibTeX formatted citation :
 
 @article{2023,
 	doi = {10.56726/irjmets35202},
-  
 	url = {https://doi.org/10.56726%2Firjmets35202},
-  
 	year = 2023,
 	month = {apr},
-  
 	publisher = {International Research Journal of Modernization in Engineering Technology and Science},
-  
-	title = {{DETECTING} {FAKE} {JOB} {POSTINGS} {USING} {BIDIRECTIONAL} {LSTM}
-},
-  
-	journal = {International Research Journal of Modernization in Engineering Technology and Science}
-}
+	title = {{DETECTING} {FAKE} {JOB} {POSTINGS} {USING} {BIDIRECTIONAL} {LSTM}},
+	journal = {International Research Journal of Modernization in Engineering Technology and Science}}
 
 
 
