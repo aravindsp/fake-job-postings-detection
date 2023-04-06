@@ -13,13 +13,13 @@ Moreover, we discuss challenges, future research directions, and ethical conside
 aiming to inspire further exploration and development of practical solutions to combat online job fraud.
 
 
-Full Article : 
+## Full Article : 
 
-https://www.irjmets.com/uploadedfiles/paper//issue_3_march_2023/35202/final/fin_irjmets1680354157.pdf
+	https://www.irjmets.com/uploadedfiles/paper//issue_3_march_2023/35202/final/fin_irjmets1680354157.pdf
 
-https://arxiv.org/abs/2304.02019
+	https://arxiv.org/abs/2304.02019
 
-BibTeX formatted citation :
+## BibTeX formatted citation :
 
 @article{2023,
 	doi = {10.56726/irjmets35202},
