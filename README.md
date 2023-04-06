@@ -1,5 +1,4 @@
-# fake-job-postings-detection
-*** Fake job postings detection - BIDLSTM *** 
+# Fake job postings detection - BIDLSTM
 
 Fake job postings have become prevalent in the online job market, posing significant challenges to job seekers
 and employers. Despite the growing need to address this problem, there is limited research that leverages deep
